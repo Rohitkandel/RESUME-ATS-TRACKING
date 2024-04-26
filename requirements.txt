@@ -1,0 +1,4 @@
+streamlit
+PyPDF2  # Reads all the text from document: summarize doc
+google.generativeai
+python-dotenv
