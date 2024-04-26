@@ -21,6 +21,7 @@ Python 3.x (https://www.python.org/downloads/)
 Streamlit (https://streamlit.io/)
 PyPDF2 (install using pip install PyPDF2)
 dotenv (optional, install using pip install python-dotenv)
+
 Installation:
 
 Clone the repository: git clone https://github.com/RohitKandel/RESUME-ATS-TRACKING.git
@@ -29,6 +30,7 @@ Install dependencies: pip install -r requirements.txt (create a requirements.txt
 Configuration (Optional):
 
 Create a .env file to store environment variables (e.g., API keys). Exclude this file from version control (add it to your .gitignore).
+
 Run the App:
 
 Start a terminal in the project directory and run: streamlit run app.py
@@ -40,6 +42,7 @@ Implement keyword extraction and matching between resumes and job descriptions.
 Provide resume scoring based on the analysis.
 Offer tailored suggestions for improving resume content and structure.
 Enhance user interface and experience.
+
 Disclaimer:
 
 This project is currently under development and uses a placeholder analysis function. The provided instructions and functionalities serve as a starting point for building a more complete ATS analyzer.
